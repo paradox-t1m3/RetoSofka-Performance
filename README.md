@@ -84,4 +84,3 @@ Se recomienda guardar los resultados para comparativas futuras y validación de 
 **Christian Villegas Suarez**  
 📧 cristvs95@gmail.com  
 📱 +57 302 453 5724  
-💼 Senior Software Engineer especializado en automatización de pruebas, análisis de rendimiento y documentación técnica.
